@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path_to_your_avatar_image" alt="Tooba Riaz Avatar" width="300px" />
+  <img src="female-developer-background_665280-9650-transformed-removebg-preview (1).png" alt="Tooba Riaz Avatar" width="300px" />
 </p>
 
 <h1 align="center">Hello! I Am <span style="color: #A020F0;">Tooba Riaz</span></h1>
