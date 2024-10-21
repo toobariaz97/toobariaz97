@@ -7,6 +7,6 @@
 <h2 align="center">Transforming Ideas into Scalable <span style="color: #A020F0;">Digital Realities</span></h2>
 
 <p align="center">
-  <a href="https://yourportfolio.com">Visit my Portfolio</a> • 
-  <a href="mailto:youremail@example.com">Contact Me</a>
+  <a href="https://tr-portfolio-five.vercel.app/">Visit my Portfolio</a> • 
+  <a href="mailto:toobariaztr23@gmail.com">Contact Me</a>
 </p>
